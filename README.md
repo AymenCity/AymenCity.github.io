@@ -14,12 +14,6 @@ User-friendly, secure, and responsive booking web app for Lancaster’s Restaura
 **▶ Watch Demo**
 [![Watch Demo](https://img.youtube.com/vi/D2-t07DVESA/0.jpg)](https://www.youtube.com/watch?v=D2-t07DVESA) 
 
-### [Asteroids Game](https://github.com/AymenCity/IN2026-Asteroids)
-Built with C++ and C, this classic space shooter features a user-friendly start screen, playable demo mode, and multiple power-ups. Implemented smooth animations, collision detection, and AI-controlled demo gameplay. Focused on refining gameplay mechanics, fixing bugs, and delivering a polished user experience.
-
-### [AirVia Ticket Sales System](https://github.com/AymenCity/TeamProject)
-Contributed to a team project developing backend and frontend components for AirVia LTD’s Ticket Sales system in Java. Implemented a custom SQL database abstraction layer with record locking and multi-user login supporting role-based access. Built core features such as sales processing, transaction management, discounts, and refunds, alongside UI components for user interaction and reporting.
-
 ### [Super Mario Bros. Java Recreation](https://github.com/AymenCity/citygame2122-AymenCity)
 Developed a Java-based platformer game inspired by Super Mario Bros. Designed and implemented core gameplay mechanics such as collectibles, item interactions, and level progression using Java Swing for the user interface and integrated sound effects for immersion. This project improved my proficiency in Java programming, event-driven development, and problem-solving.
 
@@ -34,9 +28,15 @@ Created an interactive 3D cube visualisation using Processing, featuring adjusta
 ![cube1](/assets/img/cube1.jpg)
 ![cube2](/assets/img/cube2.jpg)
 
+### [Asteroids Game](https://github.com/AymenCity/IN2026-Asteroids)
+Built with C++ and C, this classic space shooter features a user-friendly start screen, playable demo mode, and multiple power-ups. Implemented smooth animations, collision detection, and AI-controlled demo gameplay. Focused on refining gameplay mechanics, fixing bugs, and delivering a polished user experience.
+
+### [AirVia Ticket Sales System](https://github.com/AymenCity/TeamProject)
+Contributed to a team project developing backend and frontend components for AirVia LTD’s Ticket Sales system in Java. Implemented a custom SQL database abstraction layer with record locking and multi-user login supporting role-based access. Built core features such as sales processing, transaction management, discounts, and refunds, alongside UI components for user interaction and reporting.
+
 ## Contact Me
 I'm always open to connecting with driven people, collaborating on cool projects, or just chatting about tech. Feel free to get in touch.
 
-- 📧 Email: [aymen.said1@outlook.com](mailto:aymen.said1@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/aymen-s](https://www.linkedin.com/in/aymen-s/)  
-- 🧑‍💻 GitHub: [github.com/AymenCity](https://github.com/AymenCity)
+[![Email](https://img.shields.io/badge/email-aymen.said1%40outlook.com-blue?style=flat-square&logo=gmail)](mailto:aymen.said1@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymen%20Said-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aymen-s/)
+[![GitHub](https://img.shields.io/badge/GitHub-AymenCity-181717?style=flat-square&logo=github)](https://github.com/AymenCity)
