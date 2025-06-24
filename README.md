@@ -37,6 +37,6 @@ Contributed to a team project developing backend and frontend components for Air
 ## Contact Me
 I'm always open to connecting with driven people, collaborating on cool projects, or just chatting about tech. Feel free to get in touch.
 
-[![Email](https://img.shields.io/badge/email-aymen.said1%40outlook.com-blue?style=flat-square&logo=gmail)](mailto:aymen.said1@outlook.com)
+[![Email](https://img.shields.io/badge/Email-aymen.said1@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:aymen.said1@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymen%20Said-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aymen-s/)
 [![GitHub](https://img.shields.io/badge/GitHub-AymenCity-181717?style=flat-square&logo=github)](https://github.com/AymenCity)
