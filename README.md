@@ -6,8 +6,9 @@
 Phishcord is an AI-powered Chrome extension that detects phishing emails in real-time. Built with Python, Flask, and JavaScript, it uses multiple machine learning models (SVC, Random Forest, Naive Bayes, XGBoost) to classify suspicious messages. Includes manual and automatic detection via Gmail, customisable model selection, and a secure backend with IMAP integration.
 
 <a href="https://github.com/AymenCity/AymenCity.github.io/raw/main/assets/vid/video.mov">
- 
-</a>
+  <img src="assets/img/cube1.jpg" alt="Watch Phishcord Demo" width="600">
+</a> 
+
 
 
 ### [Restaurant Booking Web App](https://github.com/AymenCity/lancasters-web-dev-bookings)
