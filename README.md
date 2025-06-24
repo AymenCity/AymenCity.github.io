@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Aymen Said!
+**CS Master's Student | AI/ML & Cybersecurity Enthusiast | Full-Stack Developer | Game Dev Hobbyist**
+
+I'm a soon-to-be graduate (July 2025) from City, University of London, passionate about using software to solve real-world problems — from phishing detection to full-stack systems and games. I specialize in Python, Java, and C++, and love combining my interests in AI and cybersecurity to build practical, impactful tools.
 
 ## Projects
 ### [Phishcord – AI-Powered Phishing Detection Chrome Extension](https://github.com/AymenCity/phishcord-phishing-detector)
@@ -27,16 +30,9 @@ Created an interactive 3D cube visualisation using Processing, featuring adjusta
 ![cube1](/assets/img/cube1.jpg)
 ![cube2](/assets/img/cube2.jpg)
 
-## About Me
-I'm a final-year Computer Science with Cyber Security student at City, University of London, graduating in July 2025. I'm passionate about building secure and impactful software—whether it's AI tools, full-stack web apps, or games.
-
-I have hands-on experience with Python, Java, JavaScript, C++, and SQL, and enjoy working across both frontend and backend systems. I'm especially interested in cybersecurity, AI/ML, and building things that solve real-world problems.
-
-Outside of coding, I'm a curious and hands-on person who enjoys DIY, helping others learn, and constantly picking up new skills.
-
-## Contact
+## Contact Me
 I'm always open to connecting with driven people, collaborating on cool projects, or just chatting about tech. Feel free to get in touch.
 
-@ aymen.said1@outlook.com
-linkedin: https://www.linkedin.com/in/aymen-s/
-github: https://github.com/AymenCity
+- 📧 Email: [aymen.said1@outlook.com](mailto:aymen.said1@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/aymen-s](https://www.linkedin.com/in/aymen-s/)  
+- 🧑‍💻 GitHub: [github.com/AymenCity](https://github.com/AymenCity)
