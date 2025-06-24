@@ -12,7 +12,7 @@ Phishcord is an AI-powered Chrome extension that detects phishing emails in real
 User-friendly, secure, and responsive booking web app for Lancaster’s Restaurant. Built with PHP8+, MySQL, HTML5, CSS3, and Twig, following MVC architecture. Includes user registration, login, booking management, and dynamic calendar/email generation. Input validation uses HTML5 and client-side JavaScript.
 
 **▶ Watch Demo**
-[![Watch Demo](https://img.youtube.com/vi/D2-t07DVESA/0.jpg)](https://www.youtube.com/watch?v=D2-t07DVESA) 
+[![Watch Demo](https://img.youtube.com/vi/vUSSnuNil-w/0.jpg)](https://www.youtube.com/watch?v=vUSSnuNil-w) 
 
 ### [Super Mario Bros. Java Recreation](https://github.com/AymenCity/citygame2122-AymenCity)
 Developed a Java-based platformer game inspired by Super Mario Bros. Designed and implemented core gameplay mechanics such as collectibles, item interactions, and level progression using Java Swing for the user interface and integrated sound effects for immersion. This project improved my proficiency in Java programming, event-driven development, and problem-solving.
