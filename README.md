@@ -23,6 +23,10 @@ Developed a Java-based platformer game inspired by Super Mario Bros. Designed an
 ### Animated 3D Cube
 Created an interactive 3D cube visualisation using Processing, featuring adjustable rotation speed, size, and colours with keyboard controls and sound effects. Completed during an intensive 2-week programming bootcamp, strengthening skills in 3D graphics and event-driven programming.
 
+![cube0](/assets/img/cube0.jpeg)
+![cube1](/assets/img/cube1.jpeg)
+![cube2](/assets/img/cube2.jpeg)
+
 ## About Me
 I'm a final-year Computer Science with Cyber Security student at City, University of London, graduating in July 2025. I'm passionate about building secure and impactful software—whether it's AI tools, full-stack web apps, or games.
 
