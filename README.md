@@ -66,6 +66,7 @@ Contributed to a team project developing backend and frontend components for Air
 ## Contact Me
 I'm always open to connecting with driven people, collaborating on cool projects, or just chatting about tech. Feel free to get in touch.
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <p>
   <a href="mailto:aymen.said1@outlook.com" style="margin-right: 15px;" title="Email">
     <i class="fas fa-envelope fa-lg"></i>
