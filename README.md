@@ -1,12 +1,12 @@
 # Portfolio
-**Computer Science with Cyber Security MSci (Hons) Graduate @ City, University of London**
+
+#### Computer Science with Cyber Security MSci (Hons) Graduate @ City, University of London
 
 ## Projects
-### [Phishcord – AI-Powered Phishing Detection Chrome Extension](https://github.com/AymenCity/phishcord-phishing-detector)
+**Phishcord – AI-Powered Phishing Detection Chrome Extension**
 Phishcord is an AI-powered Chrome extension that detects phishing emails in real-time. Built with Python, Flask, and JavaScript, it uses multiple machine learning models (SVC, Random Forest, Naive Bayes, XGBoost) to classify suspicious messages. Includes manual and automatic detection via Gmail, customisable model selection, and a secure backend with IMAP integration.
-
-**▶ Watch Demo**
-[![Watch Demo](https://img.youtube.com/vi/ftIjiU8FTB4/0.jpg)](https://www.youtube.com/watch?v=ftIjiU8FTB4)
+- [Check out the code](https://github.com/AymenCity/phishcord-phishing-detector)
+- [Watch Demo](https://www.youtube.com/watch?v=ftIjiU8FTB4)
 
 ### [Restaurant Booking Web App](https://github.com/AymenCity/lancasters-web-dev-bookings)
 User-friendly, secure, and responsive booking web app for Lancaster’s Restaurant. Built with PHP8+, MySQL, HTML5, CSS3, and Twig, following MVC architecture. Includes user registration, login, booking management, and dynamic calendar/email generation. Input validation uses HTML5 and client-side JavaScript.
