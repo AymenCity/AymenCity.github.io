@@ -2,12 +2,18 @@
 
 #### Computer Science with Cyber Security MSci (Hons) Graduate @ City, University of London
 
+<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+
 ## Projects
 **Phishcord – AI-Powered Phishing Detection Chrome Extension**
 
 Phishcord is an AI-powered Chrome extension that detects phishing emails in real-time. Built with Python, Flask, and JavaScript, it uses multiple machine learning models (SVC, Random Forest, Naive Bayes, XGBoost) to classify suspicious messages. Includes manual and automatic detection via Gmail, customisable model selection, and a secure backend with IMAP integration.
 - [Check out the code](https://github.com/AymenCity/phishcord-phishing-detector)
 - [Watch Demo](https://www.youtube.com/watch?v=ftIjiU8FTB4)
+
+![Settings](/assets/img/p_setting.png)
+![UI](/assets/img/p_ui.png)
+![UI2](/assets/img/p_ui2.png)
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
