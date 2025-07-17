@@ -66,16 +66,15 @@ Contributed to a team project developing backend and frontend components for Air
 ## Contact Me
 I'm always open to connecting with driven people, collaborating on cool projects, or just chatting about tech. Feel free to get in touch.
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-<p>
-  <a href="mailto:aymen.said1@outlook.com" style="margin-right: 15px;" title="Email">
-    <i class="fas fa-envelope fa-lg"></i>
+
+<p align="left">
+  <a href="mailto:aymen.said1@outlook.com" title="Email">
+    <img src="https://www.svgrepo.com/show/354010/email.svg" width="30" alt="Email" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.linkedin.com/in/aymen-s/" style="margin-right: 15px;" title="LinkedIn">
-    <i class="fab fa-linkedin fa-lg"></i>
+  <a href="https://www.linkedin.com/in/aymen-s/" title="LinkedIn">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="30" alt="LinkedIn" style="margin-right: 15px;" />
   </a>
   <a href="https://github.com/AymenCity" title="GitHub">
-    <i class="fab fa-github fa-lg"></i>
+    <img src="https://www.svgrepo.com/show/349375/github.svg" width="30" alt="GitHub" />
   </a>
 </p>
-
