@@ -23,6 +23,10 @@ User-friendly, secure, and responsive booking web app for Lancaster’s Restaura
 - [Check out the code](https://github.com/AymenCity/lancasters-web-dev-bookings)
 - [Watch Demo](https://www.youtube.com/watch?v=vUSSnuNil-w)
 
+![Home](/assets/img/l_home.png)
+![Reservation](/assets/img/l_res.png)
+![Admin](/assets/img/l_admin.png)
+
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
 **Super Mario Bros. Java Recreation**
