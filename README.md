@@ -1,5 +1,5 @@
-# Aymen Said
-**CS Master's Student | AI/ML & Cybersecurity Enthusiast | Full-Stack Developer | Game Dev Hobbyist**
+# Portfolio
+**Computer Science with Cyber Security MSci (Hons) Graduate @ City, University of London**
 
 ## Projects
 ### [Phishcord – AI-Powered Phishing Detection Chrome Extension](https://github.com/AymenCity/phishcord-phishing-detector)
