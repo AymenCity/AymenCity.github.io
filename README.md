@@ -1,7 +1,5 @@
 # Portfolio
 
-#### Computer Science with Cyber Security MSci (Hons) Graduate @ City, University of London
-
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
 ## About Me
