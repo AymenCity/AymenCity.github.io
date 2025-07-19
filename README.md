@@ -80,10 +80,10 @@ I'm always open to connecting with driven people, collaborating on cool projects
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aymen-s/" title="LinkedIn">
-    <img src="https://www.svgrepo.com/download/494278/linkedin-round.svg" width="30" alt="LinkedIn" style="margin-right: 15px;" />
+    <img src="https://www.svgrepo.com/download/494278/linkedin-round.svg" width="30" alt="LinkedIn" />
   </a> 
   <a href="https://github.com/AymenCity" title="GitHub">
-    <img src="https://www.svgrepo.com/download/512317/github-142.svg" width="30" alt="GitHub" />
+    <img src="https://www.svgrepo.com/download/512317/github-142.svg" width="30" alt="GitHub" style="margin-right: 15px;" />
   </a>
   <a href="mailto:aymen.said1@outlook.com" title="Email">
     <img src="https://www.svgrepo.com/download/439752/email-circle-fill.svg" width="30" alt="Email" style="margin-right: 15px;" />
