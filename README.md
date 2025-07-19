@@ -33,8 +33,8 @@ User-friendly, secure, and responsive booking web app for Lancaster’s Restaura
 ![Home](/assets/img/l_home.png)
 ![Reservation](/assets/img/l_res.png)
 ![Reservation2](/assets/img/l_res2.png)
-![sql](/assets/img/l_sql.png)
 ![Admin](/assets/img/l_admin.png)
+![sql](/assets/img/l_sql.png)
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
