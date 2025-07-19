@@ -27,6 +27,24 @@ User-friendly, secure, and responsive booking web app for Lancaster’s Restaura
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
+**AirVia Ticket Sales System** 
+
+Contributed to a team project developing backend and frontend components for AirVia LTD’s Ticket Sales system in Java. Implemented a custom SQL database abstraction layer with record locking and multi-user login supporting role-based access. Built core features such as sales processing, transaction management, discounts, and refunds, alongside UI components for user interaction and reporting.
+- View the [GitHub repository](https://github.com/AymenCity/TeamProject)
+
+![login](/assets/img/a_login.PNG)
+![welcome](/assets/img/a_welcome.PNG)
+![stock](/assets/img/a_stock.PNG)
+
+<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+
+**Asteroids Game**
+
+Built with C++ and C, this classic space shooter features a user-friendly start screen, playable demo mode, and multiple power-ups. Implemented smooth animations, collision detection, and AI-controlled demo gameplay. Focused on refining gameplay mechanics, fixing bugs, and delivering a polished user experience.
+- View the [GitHub repository](https://github.com/AymenCity/IN2026-Asteroids)
+
+<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+
 **Super Mario Bros. Java Recreation**
 
 Developed a Java-based platformer game inspired by Super Mario Bros. Designed and implemented core gameplay mechanics such as collectibles, item interactions, and level progression using Java Swing for the user interface and integrated sound effects for immersion. This project improved my proficiency in Java programming, event-driven development, and problem-solving.
@@ -43,23 +61,8 @@ Developed a Java-based platformer game inspired by Super Mario Bros. Designed an
 Created an interactive 3D cube visualisation using Processing, featuring adjustable rotation speed, size, and colours with keyboard controls and sound effects. Completed during an intensive 2-week programming bootcamp, strengthening skills in 3D graphics and event-driven programming.
 - View the [GitHub repository](https://github.com/AymenCity/bootcamp_project)
 
-![cube0](/assets/img/cube0.jpg)
 ![cube1](/assets/img/cube1.jpg)
 ![cube2](/assets/img/cube2.jpg)
-
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
-
-**Asteroids Game**
-
-Built with C++ and C, this classic space shooter features a user-friendly start screen, playable demo mode, and multiple power-ups. Implemented smooth animations, collision detection, and AI-controlled demo gameplay. Focused on refining gameplay mechanics, fixing bugs, and delivering a polished user experience.
-- View the [GitHub repository](https://github.com/AymenCity/IN2026-Asteroids)
-
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
-
-**AirVia Ticket Sales System** 
-
-Contributed to a team project developing backend and frontend components for AirVia LTD’s Ticket Sales system in Java. Implemented a custom SQL database abstraction layer with record locking and multi-user login supporting role-based access. Built core features such as sales processing, transaction management, discounts, and refunds, alongside UI components for user interaction and reporting.
-- View the [GitHub repository](https://github.com/AymenCity/TeamProject)
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
   
