@@ -4,11 +4,20 @@
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
+## About Me
+Aymen is a Computer Science with Cyber Security graduate who enjoys building secure, practical software that solves real-world problems. He has experience across full-stack development, cybersecurity, and machine learning — and enjoys turning complex ideas into functional, user-friendly tools.
+
+He's worked with languages and frameworks like Python, Java, C++, JavaScript, PHP, and Flask with a growing interest in AI and system security.
+
+Outside of tech, Aymen is a curious, hands-on learner who enjoys teaching others, building things from scratch, and picking up new skills — whether it’s debugging code or exploring something completely new.
+
+<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+
 ## Projects
 **Phishcord – AI-Powered Phishing Detection Chrome Extension**
 
 Phishcord is an AI-powered Chrome extension that detects phishing emails in real-time. Built with Python, Flask, and JavaScript, it uses multiple machine learning models (SVC, Random Forest, Naive Bayes, XGBoost) to classify suspicious messages. Includes manual and automatic detection via Gmail, customisable model selection, and a secure backend with IMAP integration.
-- View the [GitHub repository](https://github.com/AymenCity/phishcord-phishing-detector) or [watch the demo](https://www.youtube.com/watch?v=ftIjiU8FTB4) on YouTube.
+- View the [GitHub repository](https://github.com/AymenCity/phishcord-phishing-detector) or [watch the demo](https://www.youtube.com/watch?v=ftIjiU8FTB4) on YouTube
 
 ![UI](/assets/img/p_ui.png)
 ![Settings](/assets/img/p_setting.png)
@@ -19,7 +28,7 @@ Phishcord is an AI-powered Chrome extension that detects phishing emails in real
 **Restaurant Booking Web App**
 
 User-friendly, secure, and responsive booking web app for Lancaster’s Restaurant. Built with PHP8+, MySQL, HTML5, CSS3, and Twig, following MVC architecture. Includes user registration, login, booking management, and dynamic calendar/email generation. Input validation uses HTML5 and client-side JavaScript.
-- View the [GitHub repository](https://github.com/AymenCity/lancasters-web-dev-bookings) or [watch the demo](https://www.youtube.com/watch?v=vUSSnuNil-w) on YouTube.
+- View the [GitHub repository](https://github.com/AymenCity/lancasters-web-dev-bookings) or [watch the demo](https://www.youtube.com/watch?v=vUSSnuNil-w) on YouTube
 
 ![Home](/assets/img/l_home.png)
 ![Reservation](/assets/img/l_res.png)
@@ -50,7 +59,6 @@ Built with C++ and C, this classic space shooter features a user-friendly start 
 Developed a Java-based platformer game inspired by Super Mario Bros. Designed and implemented core gameplay mechanics such as collectibles, item interactions, and level progression using Java Swing for the user interface and integrated sound effects for immersion. This project improved my proficiency in Java programming, event-driven development, and problem-solving.
 - View the [GitHub repository](https://github.com/AymenCity/citygame2122-AymenCity)
 
-![Start Screen](/assets/img/image0.png)
 ![Gameplay](/assets/img/image1.png)
 ![Menu](/assets/img/image2.png)
 
