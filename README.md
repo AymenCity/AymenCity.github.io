@@ -66,7 +66,7 @@ Developed a Java-based platformer game inspired by Super Mario Bros. Designed an
 
 **Animated 3D Cube**
 
-Created an interactive 3D cube visualisation using Processing, featuring adjustable rotation speed, size, and colours with keyboard controls and sound effects. Completed during an intensive 2-week programming bootcamp, strengthening skills in 3D graphics and event-driven programming.
+Created an interactive 3D cube visualisation using Processing, featuring adjustable rotation speed, size, and colours with keyboard controls. Completed during an intensive 2-week programming bootcamp, strengthening skills in 3D graphics and event-driven programming.
 - View the [GitHub repository](https://github.com/AymenCity/bootcamp_project)
 
 ![cube1](/assets/img/cube1.jpg)
