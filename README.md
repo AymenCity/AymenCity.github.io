@@ -43,7 +43,6 @@ Contributed to a team project developing backend and frontend components for Air
 
 ![login](/assets/img/a_login.PNG)
 ![welcome](/assets/img/a_welcome.PNG)
-![stock](/assets/img/a_stock.PNG)
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
