@@ -1,20 +1,17 @@
-# Portfolio
+# Welcome.
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
-## About Me
-Aymen is a Computer Science with Cyber Security graduate who enjoys building secure, practical software that solves real-world problems. He has experience across full-stack development, cybersecurity, and machine learning — and enjoys turning complex ideas into functional, user-friendly tools.
+My name is Aymen, a Master's Computer Science graduate. I build secure, practical software that tackles real-world problems. I have experience across full-stack development, cybersecurity, and machine learning, with a passion for turning complex ideas into functional, user-friendly tools.
 
-He's worked with languages and frameworks like Python, Java, C++, JavaScript, PHP, and Flask with a growing interest in AI and system security.
-
-Outside of tech, Aymen is a curious, hands-on learner who enjoys teaching others, building things from scratch, and picking up new skills — whether it’s debugging code or exploring something completely new.
+Outside of technology, I’m a curious and hands-on learner who enjoys teaching others, building things from scratch, and continuously picking up new skills — whether that’s debugging code or exploring entirely new fields
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
 ## Projects
 **Phishcord – AI-Powered Phishing Detection Chrome Extension**
 
-Phishcord is an AI-powered Chrome extension that detects phishing emails in real-time. Built with Python, Flask, and JavaScript, it uses multiple machine learning models (SVC, Random Forest, Naive Bayes, XGBoost) to classify suspicious messages. Includes manual and automatic detection via Gmail, customisable model selection, and a secure backend with IMAP integration.
+Phishcord is an AI-powered Chrome extension that detects phishing emails in real-time. It uses machine learning models like SVC, Random Forest, and XGBoost, built with Python, Flask, and JavaScript. Features include automatic and manual detection through Gmail, customizable models, and a secure backend with IMAP integration.
 - View the [GitHub repository](https://github.com/AymenCity/phishcord-phishing-detector) or [watch the demo](https://www.youtube.com/watch?v=ftIjiU8FTB4) on YouTube
 
 ![UI](/assets/img/p_ui.png)
@@ -25,7 +22,7 @@ Phishcord is an AI-powered Chrome extension that detects phishing emails in real
 
 **Restaurant Booking Web App**
 
-User-friendly, secure, and responsive booking web app for Lancaster’s Restaurant. Built with PHP8+, MySQL, HTML5, CSS3, and Twig, following MVC architecture. Includes user registration, login, booking management, and dynamic calendar/email generation. Input validation uses HTML5 and client-side JavaScript.
+A secure, user-friendly web app for Lancaster’s Restaurant that handles booking management with dynamic calendars and email notifications. Developed with PHP8+, MySQL, and Twig, following MVC architecture, and featuring user registration and login.
 - View the [GitHub repository](https://github.com/AymenCity/lancasters-web-dev-bookings) or [watch the demo](https://www.youtube.com/watch?v=vUSSnuNil-w) on YouTube
 
 ![Home](/assets/img/l_home.png)
@@ -38,7 +35,7 @@ User-friendly, secure, and responsive booking web app for Lancaster’s Restaura
 
 **AirVia Ticket Sales System** 
 
-Contributed to a team project developing backend and frontend components for AirVia LTD’s Ticket Sales system in Java. Implemented a custom SQL database abstraction layer with record locking and multi-user login supporting role-based access. Built core features such as sales processing, transaction management, discounts, and refunds, alongside UI components for user interaction and reporting.
+Contributed backend and frontend development to AirVia LTD’s ticket sales platform in Java. Implemented role-based multi-user login, a custom SQL database layer, and core features like sales processing, discounts, and transaction management.
 - View the [GitHub repository](https://github.com/AymenCity/TeamProject)
 
 ![login](/assets/img/a_login.PNG)
@@ -48,14 +45,14 @@ Contributed to a team project developing backend and frontend components for Air
 
 **Asteroids Game**
 
-Built with C++ and C, this classic space shooter features a user-friendly start screen, playable demo mode, and multiple power-ups. Implemented smooth animations, collision detection, and AI-controlled demo gameplay. Focused on refining gameplay mechanics, fixing bugs, and delivering a polished user experience.
+Classic space shooter game built in C++ and C, featuring smooth animations, AI-controlled demo mode, and multiple power-ups. Focused on gameplay mechanics, collision detection, and delivering a polished user experience.
 - View the [GitHub repository](https://github.com/AymenCity/IN2026-Asteroids)
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
 **Super Mario Bros. Java Recreation**
 
-Developed a Java-based platformer game inspired by Super Mario Bros. Designed and implemented core gameplay mechanics such as collectibles, item interactions, and level progression using Java Swing for the user interface and integrated sound effects for immersion. This project improved my proficiency in Java programming, event-driven development, and problem-solving.
+Java Swing-based platformer inspired by Super Mario Bros., featuring collectibles, item interactions, and level progression. Integrated sound effects for an immersive experience, improving skills in Java event-driven programming.
 - View the [GitHub repository](https://github.com/AymenCity/citygame2122-AymenCity)
 
 ![Gameplay](/assets/img/image1.png)
@@ -65,17 +62,13 @@ Developed a Java-based platformer game inspired by Super Mario Bros. Designed an
 
 **Animated 3D Cube**
 
-Created an interactive 3D cube visualisation using Processing, featuring adjustable rotation speed, size, and colours with keyboard controls. Completed during an intensive 2-week programming bootcamp, strengthening skills in 3D graphics and event-driven programming.
+An interactive 3D cube visualization created with Processing, with keyboard controls to adjust rotation, size, and colors. Completed during an intensive programming bootcamp, enhancing 3D graphics and event-driven programming skills.
 - View the [GitHub repository](https://github.com/AymenCity/bootcamp_project)
 
 ![cube1](/assets/img/cube1.jpg)
 ![cube2](/assets/img/cube2.jpg)
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
-  
-## Contact Me
-I'm always open to connecting with driven people, collaborating on cool projects, or just chatting about tech. Feel free to get in touch.
-
 
 <p style="text-align: left;">
   <a href="https://www.linkedin.com/in/aymen-s/" title="LinkedIn" style="display: inline-block; margin-right: 15px;">
