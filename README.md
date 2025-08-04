@@ -1,10 +1,10 @@
 # Welcome 👋
 
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 My name is Aymen Said, a Master's Computer Science graduate based in London, UK. I build secure, practical software that tackles real-world problems. I have experience across full-stack development, cybersecurity, and machine learning, with a passion for turning complex ideas into functional, user-friendly tools. Outside of technology, I’m a curious and hands-on learner who enjoys teaching others, building things from scratch, and continuously picking up new skills — whether that’s debugging code or exploring entirely new fields.
 
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 ## Projects
 **Phishcord – AI-Powered Phishing Detection Chrome Extension**
@@ -16,7 +16,7 @@ Phishcord is an AI-powered Chrome extension that detects phishing emails in real
 ![Settings](/assets/img/p_setting.png)
 ![UI2](/assets/img/p_ui2.png)
 
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 **Restaurant Booking Web App**
 
@@ -29,7 +29,7 @@ A secure, user-friendly web app for Lancaster’s Restaurant that handles bookin
 ![Admin](/assets/img/l_admin.png)
 ![sql](/assets/img/l_sql.png)
 
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 **AirVia Ticket Sales System** 
 
@@ -39,14 +39,14 @@ Contributed backend and frontend development to AirVia LTD’s ticket sales plat
 ![login](/assets/img/a_login.PNG)
 ![welcome](/assets/img/a_welcome.PNG)
 
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 **Asteroids Game**
 
 Classic space shooter game built in C++ and C, featuring smooth animations, AI-controlled demo mode, and multiple power-ups. Focused on gameplay mechanics, collision detection, and delivering a polished user experience.
 - View the [GitHub repository](https://github.com/AymenCity/IN2026-Asteroids)
 
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 **Super Mario Bros. Java Recreation**
 
@@ -56,7 +56,7 @@ Java Swing-based platformer inspired by Super Mario Bros., featuring collectible
 ![Gameplay](/assets/img/image1.png)
 ![Menu](/assets/img/image2.png)
 
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 **Animated 3D Cube**
 
@@ -66,7 +66,7 @@ An interactive 3D cube visualization created with Processing, with keyboard cont
 ![cube1](/assets/img/cube1.jpg)
 ![cube2](/assets/img/cube2.jpg)
 
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
+<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 <p style="text-align: left;">
   <a href="https://www.linkedin.com/in/aymen-s/" title="LinkedIn" style="display: inline-block; margin-right: 15px;">
