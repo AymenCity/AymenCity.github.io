@@ -2,9 +2,7 @@
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
-My name is Aymen Said, a Master's Computer Science graduate based in London, UK. I build secure, practical software that tackles real-world problems. I have experience across full-stack development, cybersecurity, and machine learning, with a passion for turning complex ideas into functional, user-friendly tools.
-
-Outside of technology, I’m a curious and hands-on learner who enjoys teaching others, building things from scratch, and continuously picking up new skills — whether that’s debugging code or exploring entirely new fields.
+My name is Aymen Said, a Master's Computer Science graduate based in London, UK. I build secure, practical software that tackles real-world problems. I have experience across full-stack development, cybersecurity, and machine learning, with a passion for turning complex ideas into functional, user-friendly tools. Outside of technology, I’m a curious and hands-on learner who enjoys teaching others, building things from scratch, and continuously picking up new skills — whether that’s debugging code or exploring entirely new fields.
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 2rem 0;" />
 
