@@ -1,4 +1,4 @@
-# Welcome 👋
+# Welcome! 👋
 
 <hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
@@ -19,7 +19,7 @@ Computer Science graduate building secure, user‑friendly software across full�
 <hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 ## Projects
-**Phishcord – AI-Powered Phishing Detection Chrome Extension**
+**Phishcord – AI-Powered Phishing Detection**
 
 _Tech: Python, Flask, HTML/CSS, JavaScript, IMAP, Machine Learning (SVC, Random Forest, Naive Bayes, XGBoost)_
 
