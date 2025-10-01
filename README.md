@@ -12,6 +12,11 @@ My name is Aymen Said, a Master's Computer Science graduate based in London, UK.
 Phishcord is an AI-powered Chrome extension that detects phishing emails in real-time. It uses machine learning models like SVC, Random Forest, and XGBoost, built with Python, Flask, and JavaScript. Features include automatic and manual detection through Gmail, customizable models, and a secure backend with IMAP integration.
 - View the [GitHub repository](https://github.com/AymenCity/phishcord-phishing-detector) or [watch the demo](https://www.youtube.com/watch?v=ftIjiU8FTB4) on YouTube
 
+<video width="600" controls>
+  <source src="/assets/vid/phishcord_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ![UI](/assets/img/p_ui.png)
 ![Settings](/assets/img/p_setting.png)
 ![UI2](/assets/img/p_ui2.png)
