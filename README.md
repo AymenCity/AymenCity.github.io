@@ -56,22 +56,22 @@ Multi-user ticket sales platform with role-based login, custom SQL database, and
 
 <hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
-**Asteroids Game**
-
-_Tech: C++, C_
-
-Classic space shooter with smooth animations, AI demo mode, and multiple power-ups. Focused on gameplay and collision mechanics. [View code](https://github.com/AymenCity/IN2026-Asteroids)
-
-<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
-
 **Super Mario Bros. Java Recreation**
 
 _Tech: Java, Swing_
 
-Retro platformer with collectibles, item interactions, level progression, and integrated sound effects. [View code](https://github.com/AymenCity/citygame2122-AymenCity)
+Retro platformer with collectibles, item interactions, level progression, and integrated sound effects. [View code](https://github.com/AymenCity/citygame2122-AymenCity).
 
 ![Gameplay](/assets/img/image1.png)
 ![Menu](/assets/img/image2.png)
+
+<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
+
+**Asteroids Game**
+
+_Tech: C++, C_
+
+Classic space shooter with smooth animations, AI demo mode, and multiple power-ups. Focused on gameplay and collision mechanics. [View code](https://github.com/AymenCity/IN2026-Asteroids).
 
 <hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
@@ -79,7 +79,7 @@ Retro platformer with collectibles, item interactions, level progression, and in
 
 Tech: Processing
 
-Interactive 3D cube with keyboard controls for rotation, size, and color. Completed during a programming bootcamp to enhance 3D graphics and event-driven programming skills. [View code](https://github.com/AymenCity/bootcamp_project)
+Interactive 3D cube with keyboard controls for rotation, size, and color. Completed during a programming bootcamp to enhance 3D graphics and event-driven programming skills. [View code](https://github.com/AymenCity/bootcamp_project).
 
 ![cube1](/assets/img/cube1.jpg)
 ![cube2](/assets/img/cube2.jpg)
