@@ -32,6 +32,19 @@ Chrome extension that detects phishing emails in real time. Supports automatic/m
 
 <hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
+**OWASP Juice Shop Security Evaluation**
+
+_Tech: OWASP Juice Shop, Kali Linux, Linux Mint, Common Criteria Framework, Penetration Testing_
+
+Security assessment of OWASP Juice Shop, mapping 10 vulnerability challenges to Common Criteria SFRs, performing penetration tests, and documenting evidence. Includes a video walkthrough demonstrating the findings.
+
+<video controls style="width: 100%; max-width: 600px;">
+  <source src="/assets/vid/OWASP.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
+
 **Restaurant Booking Web App**
 
 _Tech: PHP8+, Twig, MVC, HTML/CSS, JavaScript, MySQL (developed/tested on Oracle VirtualBox)_
