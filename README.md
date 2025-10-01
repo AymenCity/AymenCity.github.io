@@ -25,7 +25,7 @@ _Tech: Python, Flask, HTML/CSS, JavaScript, IMAP, Machine Learning (SVC, Random 
 
 Chrome extension that detects phishing emails in real time. Supports automatic/manual Gmail scanning, customisable ML models, and a secure IMAP-based backend. View the [code](https://github.com/AymenCity/phishcord-phishing-detector) here.
 
-<video width="auto" controls>
+<video controls style="width: 100%; max-width: 600px;">
   <source src="/assets/vid/phishcord_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
