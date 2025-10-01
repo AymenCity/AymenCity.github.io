@@ -23,7 +23,7 @@ Computer Science graduate building secure, user‑friendly software across full�
 
 _Tech: Python, Flask, HTML/CSS, JavaScript, IMAP, Machine Learning (SVC, Random Forest, Naive Bayes, XGBoost)_
 
-Chrome extension that detects phishing emails in real time. Supports automatic/manual Gmail scanning, customisable ML models, and a secure IMAP-based backend [View code](https://github.com/AymenCity/phishcord-phishing-detector).
+Chrome extension that detects phishing emails in real time. Supports automatic/manual Gmail scanning, customisable ML models, and a secure IMAP-based backend. [View code](https://github.com/AymenCity/phishcord-phishing-detector).
 
 <video controls style="width: 100%; max-width: 600px;">
   <source src="/assets/vid/phishcord_demo.mp4" type="video/mp4">
@@ -34,9 +34,9 @@ Chrome extension that detects phishing emails in real time. Supports automatic/m
 
 **Restaurant Booking Web App**
 
-_Tech: PHP8+, MySQL, Twig, MVC, HTML/CSS, JavaScript (developed/tested on Oracle VirtualBox)_
+_Tech: PHP8+, Twig, MVC, HTML/CSS, JavaScript, MySQL (developed/tested on Oracle VirtualBox)_
 
-Secure, user-friendly web app for Lancaster’s Restaurant with dynamic booking calendars, email notifications, and user registration/login. [View code](https://github.com/AymenCity/lancasters-web-dev-bookings) 
+Secure, user-friendly web app for Lancaster’s Restaurant with dynamic booking calendars, email notifications, and user registration/login. [View code](https://github.com/AymenCity/lancasters-web-dev-bookings). 
 
 <video controls style="width: 100%; max-width: 600px;">
   <source src="/assets/vid/lancaster.mp4" type="video/mp4">
@@ -47,8 +47,9 @@ Secure, user-friendly web app for Lancaster’s Restaurant with dynamic booking 
 
 **AirVia Ticket Sales System** 
 
-Contributed backend and frontend development to AirVia LTD’s ticket sales platform in Java. Implemented role-based multi-user login, a custom SQL database layer, and core features like sales processing, discounts, and transaction management.
-- View the [GitHub repository](https://github.com/AymenCity/TeamProject)
+_Tech: Java, Swing, MySQL_
+
+Multi-user ticket sales platform with role-based login, custom SQL database, and core features like sales processing, discounts, and transaction management. [View code](https://github.com/AymenCity/TeamProject).
 
 ![login](/assets/img/a_login.PNG)
 ![welcome](/assets/img/a_welcome.PNG)
@@ -57,15 +58,17 @@ Contributed backend and frontend development to AirVia LTD’s ticket sales plat
 
 **Asteroids Game**
 
-Classic space shooter game built in C++ and C, featuring smooth animations, AI-controlled demo mode, and multiple power-ups. Focused on gameplay mechanics, collision detection, and delivering a polished user experience.
-- View the [GitHub repository](https://github.com/AymenCity/IN2026-Asteroids)
+_Tech: C++, C_
+
+Classic space shooter with smooth animations, AI demo mode, and multiple power-ups. Focused on gameplay and collision mechanics. [View code](https://github.com/AymenCity/IN2026-Asteroids)
 
 <hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 **Super Mario Bros. Java Recreation**
 
-Java Swing-based platformer inspired by Super Mario Bros., featuring collectibles, item interactions, and level progression. Integrated sound effects for an immersive experience, improving skills in Java event-driven programming.
-- View the [GitHub repository](https://github.com/AymenCity/citygame2122-AymenCity)
+_Tech: Java, Swing_
+
+Retro platformer with collectibles, item interactions, level progression, and integrated sound effects. [View code](https://github.com/AymenCity/citygame2122-AymenCity)
 
 ![Gameplay](/assets/img/image1.png)
 ![Menu](/assets/img/image2.png)
@@ -74,8 +77,9 @@ Java Swing-based platformer inspired by Super Mario Bros., featuring collectible
 
 **Animated 3D Cube**
 
-An interactive 3D cube visualization created with Processing, with keyboard controls to adjust rotation, size, and colors. Completed during an intensive programming bootcamp, enhancing 3D graphics and event-driven programming skills.
-- View the [GitHub repository](https://github.com/AymenCity/bootcamp_project)
+Tech: Processing
+
+Interactive 3D cube with keyboard controls for rotation, size, and color. Completed during a programming bootcamp to enhance 3D graphics and event-driven programming skills. [View code](https://github.com/AymenCity/bootcamp_project)
 
 ![cube1](/assets/img/cube1.jpg)
 ![cube2](/assets/img/cube2.jpg)
