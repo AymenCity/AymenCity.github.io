@@ -90,7 +90,7 @@ Classic space shooter with smooth animations, AI demo mode, and multiple power-u
 
 **Animated 3D Cube**
 
-Tech: Processing
+_Tech: Processing_
 
 Interactive 3D cube with keyboard controls for rotation, size, and color. Completed during a programming bootcamp to enhance 3D graphics and event-driven programming skills. [View code](https://github.com/AymenCity/bootcamp_project).
 
