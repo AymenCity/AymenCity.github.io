@@ -23,7 +23,7 @@ Computer Science graduate building secure, userâ€‘friendly software across fullâ
 
 *_Tech:_* _Python, Flask, HTML/CSS, JavaScript, IMAP, Machine Learning (SVC, Random Forest, Naive Bayes, XGBoost)_
 
-Chrome extension that detects phishing emails in real time. Supports automatic/manual Gmail scanning, customisable machine learning models, and a secure backend. View the code [code](https://github.com/AymenCity/phishcord-phishing-detector) here.
+Chrome extension that detects phishing emails in real time. Supports automatic/manual Gmail scanning, customisable machine learning models, and a secure backend. View the [code](https://github.com/AymenCity/phishcord-phishing-detector) here.
 
 <video width="600" controls>
   <source src="/assets/vid/phishcord_demo.mp4" type="video/mp4">
