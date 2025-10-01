@@ -34,7 +34,7 @@ Chrome extension that detects phishing emails in real time. Supports automatic/m
 
 **OWASP Juice Shop Security Evaluation**
 
-_Tech: OWASP Juice Shop, Kali Linux, Linux Mint, Common Criteria Framework, Penetration Testing_
+_Tech: OWASP Juice Shop, Kali Linux, Linux Mint, Burp Suite, Common Criteria Framework, Penetration Testing_
 
 Security assessment of OWASP Juice Shop, mapping 10 vulnerability challenges to Common Criteria SFRs, performing penetration tests, and documenting evidence. Includes a video walkthrough demonstrating the findings.
 
