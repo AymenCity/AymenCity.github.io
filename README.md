@@ -23,29 +23,25 @@ Computer Science graduate building secure, user‑friendly software across full�
 
 _Tech: Python, Flask, HTML/CSS, JavaScript, IMAP, Machine Learning (SVC, Random Forest, Naive Bayes, XGBoost)_
 
-Chrome extension that detects phishing emails in real time. Supports automatic/manual Gmail scanning, customisable ML models, and a secure IMAP-based backend. View the [code](https://github.com/AymenCity/phishcord-phishing-detector) here.
+Chrome extension that detects phishing emails in real time. Supports automatic/manual Gmail scanning, customisable ML models, and a secure IMAP-based backend [View code](https://github.com/AymenCity/phishcord-phishing-detector).
 
 <video controls style="width: 100%; max-width: 600px;">
   <source src="/assets/vid/phishcord_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-![UI](/assets/img/p_ui.png)
-![Settings](/assets/img/p_setting.png)
-![UI2](/assets/img/p_ui2.png)
-
 <hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
 **Restaurant Booking Web App**
 
-A secure, user-friendly web app for Lancaster’s Restaurant that handles booking management with dynamic calendars and email notifications. Developed with PHP8+, MySQL, and Twig, following MVC architecture, and featuring user registration and login.
-- View the [GitHub repository](https://github.com/AymenCity/lancasters-web-dev-bookings) or [watch the demo](https://www.youtube.com/watch?v=vUSSnuNil-w) on YouTube
+_Tech: PHP8+, MySQL, Twig, MVC, HTML/CSS, JavaScript (developed/tested on Oracle VirtualBox)_
 
-![Home](/assets/img/l_home.png)
-![Reservation](/assets/img/l_res.png)
-![Reservation2](/assets/img/l_res2.png)
-![Admin](/assets/img/l_admin.png)
-![sql](/assets/img/l_sql.png)
+Secure, user-friendly web app for Lancaster’s Restaurant with dynamic booking calendars, email notifications, and user registration/login. [View code](https://github.com/AymenCity/lancasters-web-dev-bookings) 
+
+<video controls style="width: 100%; max-width: 600px;">
+  <source src="/assets/vid/lancaster.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
