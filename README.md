@@ -1,4 +1,4 @@
-# Welcome! 👋
+# Welcome 👋
 
 <hr style="border: none; height: 1px; background-color: #dfe2e5; margin: 2rem 0;" />
 
